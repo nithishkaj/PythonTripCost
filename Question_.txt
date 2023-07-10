@@ -1,0 +1,20 @@
+Print a list of cities
+Ask the user for the destination city
+Ask for the numbers of days user will be away
+Calculate flight cost based on destination city. Print the cost.
+Calculate hotel cost based on the destination city and days. Print the cost.
+Calculate the total cost of the trip and print it.
+
+Cost of One Round Trip Ticket
+Tokyo: SGD 818
+Kuala Lumpur: SGD 245
+Bangkok: SGD 359
+Taipei: SGD 657
+
+Cost of One Night Hotel 
+Tokyo: SGD 192
+Kuala Lumpur: SGD 72
+Bangkok: SGD 88
+Taipei: SGD 90
+
+
